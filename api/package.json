@@ -6,8 +6,8 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Booking","App"],
+  "author": "Nuwan",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
